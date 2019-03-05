@@ -1,0 +1,56 @@
+11
+Indyk
+84
+0 	
+19,2	
+0,7
+Kielbasa podwawelska	
+247	
+0,9	
+17,3	
+19,6
+Kielbasa slaska	
+210
+0 	
+18,4	
+15,3
+Klopsiki mielone z miesa mieszanego
+272
+15,9
+13,5
+17,5
+Kotlet schabowy panierowany	
+351	
+15,9	
+19	
+24,1
+Kotlet z kurczaka smazony panierowany	
+248	
+7,6
+19,7
+15,7
+Kurczak pieczony	
+179	
+0,1	
+16,4	
+12,7
+Poledwica wolowa	
+112	    
+0 	
+20,1	
+3,5
+Pstrag swiezy	
+96	     
+0 	
+19,2	
+2,1
+Wolowina, poledwica
+113
+0 	
+20,1	
+3,5
+Mintaj swiezy	
+73
+0 	
+16,6	
+0,6

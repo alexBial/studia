@@ -1,0 +1,46 @@
+9
+Salata	
+20
+2,9
+1,4
+0,3
+Pomidor	
+29	
+5,2	
+0,9	
+0,5
+Papryka czerwona	
+35	
+6,9	
+1,2	
+0,3
+Marchew z groszkiem	
+64	
+10,8	
+1,7
+3,1
+Kapusta Pekinska
+12
+3,2
+1,2
+0,2
+Kapusta kwaszona	
+12	
+3,4	
+1,1	
+0,2
+Kapusta biala zasmazana	
+69	
+7,2	
+1,6
+4,7
+Mizeria ze smietana	
+34	
+2,8	
+1	
+2,2
+Pieczarki
+24	
+2,5	
+2,6	
+0,4

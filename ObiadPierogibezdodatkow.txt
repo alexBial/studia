@@ -1,0 +1,16 @@
+3
+Pierogi z miesem 
+255	
+34,8	
+10,5	
+8,2
+Pierogi z kapusta i grzybami 
+209	
+34,5	
+5	
+5,7
+Pierogi ruskie
+215	
+37,9	
+7,2	
+3,8

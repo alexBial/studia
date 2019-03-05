@@ -1,0 +1,46 @@
+9
+Ziemniaki	
+85	
+20,5	
+1,9	
+0,1
+Ryz bialy	
+349	
+78,9
+6,7
+0,7
+Ryz brazowy	
+353	
+76,8	
+7,1	
+1,9
+Kasza gryczana	
+336	
+69,3
+12,6	
+3,1
+Kasza jaglana	
+346	
+71,6	
+10,5	
+2,9
+Frytki
+166
+26,4
+2,5
+4,9
+Makaron
+353
+68
+13
+1,9
+Kopytka	
+143
+31,2	
+4	
+0,7
+Kluski slaskie	
+169	
+32,1	
+2,6	
+3,8

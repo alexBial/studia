@@ -1,0 +1,16 @@
+3
+chocapic
+382
+76,2
+8,4
+4,8
+kukurydziane platki
+374
+83,1
+7,3
+1,5
+ciniminis
+412
+75,9
+4,9
+9,9
